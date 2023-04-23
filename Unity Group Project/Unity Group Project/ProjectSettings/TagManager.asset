@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - Enemy
+  - Ground
+  - Weapon
+  - HealthPotion
+  - Platform
+  - Ladder
+  - GM
+  - RangedEnemy
+  - EnemyBullet
+  - PlayerBullet
+  - Coin
+  - CoinNumber
+  - Checkpoint
+  - Corner
+  - Gate
+  - LevelTrigger
+  - MenuSound
+  - LevelSound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ladder
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3645764345
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Prop
+    uniqueID: 3427479347
+    locked: 0
+  - name: Bullet
+    uniqueID: 3925450789
+    locked: 0
+  - name: Enemy
+    uniqueID: 3908246961
+    locked: 0
+  - name: Player
+    uniqueID: 1768713985
+    locked: 0
+  - name: Weapon
+    uniqueID: 2580576571
+    locked: 0
+  - name: Tunnel
+    uniqueID: 2327895917
+    locked: 0
