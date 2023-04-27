@@ -1,7 +1,7 @@
 # A-Ducks-Revenge<br>
 2D Action Platformer<br>
 
-Platform: Android
+Platform: Android<br>
 Coding Language: C#<br>
 Engine and software: Unity/Unity Collaborate<br>
 Contributions: Player Controller/Combat/Point system/Level Design <br>
